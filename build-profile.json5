@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\JayChouFineday\\.ohos\\config\\auto_debug_ganbadeku_cn.cge.myapplication_30086000738358682.cer",
+          "storePassword": "0000001B9F50D2C2A65768CE51BF3164BA526E2ACBE576FF5980D63B9AB9482F2A896C63425B4D07CD9352",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BA431BD565FD1CEB63EA09B78C974C56FAA8AB7E960756A33D10AF062D65B3C4A98619D26FCF6AF",
+          "profile": "C:\\Users\\JayChouFineday\\.ohos\\config\\auto_debug_ganbadeku_cn.cge.myapplication_30086000738358682.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\JayChouFineday\\.ohos\\config\\auto_debug_ganbadeku_cn.cge.myapplication_30086000738358682.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

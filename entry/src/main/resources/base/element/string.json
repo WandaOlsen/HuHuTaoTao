@@ -1,0 +1,105 @@
+{
+  "string": [
+    {
+      "name": "account",
+      "value": "请输入账号"
+    },
+    {
+      "name": "login_page",
+      "value": "樱神登录"
+    },
+    {
+      "name": "login_more",
+      "value": "樱花树下狐狸叫，神子大喊我还要"
+    },
+    {
+      "name": "password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "message_login",
+      "value":"短信验证码登录"
+    },
+    {
+      "name": "forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "register_account",
+      "value": "注册账号"
+    },
+    {
+      "name": "other_login_method",
+      "value": "其他登录方式"
+    },
+    {
+      "name": "input_empty_tips",
+      "value": "账号或密码不能为空"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "樱神"
+    },
+    {
+      "name": "notifications",
+      "value": "推送通知"
+    },
+    {
+      "name": "manage",
+      "value": "数据管理"
+    },
+    {
+      "name": "menu",
+      "value": "菜单设置"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "clear",
+      "value": "清除缓存"
+    },
+    {
+      "name": "privacy",
+      "value": "隐私协议"
+    },
+    {
+      "name": "mainPage_tabTitles_mine",
+      "value": "用户"
+    },
+    {
+      "name": "setting_account_name",
+      "value": "MiYaWaKi"
+    },
+    {
+      "name": "setting_account_email",
+      "value": "1450637062@qq.com"
+    },
+    {
+      "name": "exit_login",
+      "value": "退出登录"
+    },
+    {
+      "name": "page1",
+      "value": "首页"
+    },
+    {
+      "name": "page2",
+      "value": "通知"
+    },
+    {
+      "name": "page3",
+      "value": "发现"
+    },
+    {
+      "name": "page4",
+      "value": "我的"
+    }
+
+  ]
+}

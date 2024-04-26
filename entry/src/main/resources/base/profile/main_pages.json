@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Login",
+    "pages/MySetting",
+    "pages/Sakura",
+    "pages/NavPage",
+    "pages/Home",
+    "pages/SearchPage",
+    "pages/Record",
+    "pages/YoLov8",
+    "pages/YoLov7",
+    "pages/YoLov6",
+    "pages/TensorFlow",
+    "pages/Pytorch",
+    "pages/YoLov5"
+  ]
+}
